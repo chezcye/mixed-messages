@@ -15,3 +15,5 @@ For this project, you will build a message generator program. Every time a user 
 + JavaScript Arrays 
 + JavaScript 
 + Visual Studio Code 
++ Git 
++ Github
